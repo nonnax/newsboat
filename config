@@ -1,0 +1,38 @@
+auto-reload yes
+download-retries 4
+error-log ~/.newsboat/error.log
+keep-articles-days 90
+notify-xterm yes
+save-path ~/saved_articles
+
+browser "firefox %u"
+
+#feed settings
+prepopulate-query-feeds yes
+refresh-on-startup yes
+reload-threads 6
+ignore-mode "display"
+ignore-article "*" "age > 30 or title # \"ubuntu\" or title # \"bspwm\" "
+# srcery newsboat
+# https://github.com/srcery-colors/srcery-shell
+
+# interface colors {{{
+
+color info              color15 color235 bold
+color listfocus         color10 color237
+color listfocus_unread  color9  color237
+color listnormal        color7  default
+color listnormal_unread color15 default
+
+# }}}
+
+unbind-key H
+unbind-key L
+unbind-key j
+unbind-key k
+
+bind-key BACKSPACE quit
+bind-key h quit
+bind-key j down
+bind-key k up
+bind-key l open

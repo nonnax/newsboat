@@ -1,0 +1,64 @@
+http://rss.cnn.com/rss/cnn_topstories.rss
+http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml
+#reddits
+https://www.reddit.com/r/news.rss reddit content
+https://www.reddit.com/r/ManjaroLinux/.rss reddit content
+https://www.reddit.com/r/unixporn/new.rss reddit content
+https://www.reddit.com/r/Android/.rss
+#programming
+https://www.reddit.com/r/crystal_programming/.rss
+https://www.ruby-lang.org/en/feeds/news.rss
+https://www.reddit.com/r/ruby/.rss
+http://stackoverflow.com/feeds
+#social news
+https://www.reddit.com/r/youtube/.rss
+https://www.reddit.com/r/Philippines/.rss
+https://www.reddit.com/r/news/.rss
+https://www.reddit.com/r/discordapp/.rss
+#crypto
+https://www.reddit.com/r/Crypto_Currency_News/.rss
+#health
+https://www.reddit.com/r/Coronavirus_PH/.rss
+https://news.ycombinator.com/rss
+
+# news
+https://news.google.com/rss?hl=en-GB&gl=GB&ceid=GB:en google uk
+https://news.google.com/rss?hl=en-PH&gl=PH&ceid=PH:en google ph
+https://news.google.com/rss/topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE/sections/CAQiUENCSVNOam9JYkc5allXeGZkakpDRUd4dlkyRnNYM1l5WDNObFkzUnBiMjV5Q3hJSkwyMHZNREZrZG5wNWVnc0tDUzl0THpBeFpIWjZlU2dBKjEIACotCAoiJ0NCSVNGem9JYkc5allXeGZkako2Q3dvSkwyMHZNREZrZG5wNUtBQVABUAE?hl=en-PH&gl=PH&ceid=PH%3Aen
+
+
+# local news
+https://www.inquirer.net/fullfeed/
+# https://www.gmanetwork.com/news/rss/
+https://www.bworldonline.com/feed/
+https://www.tempo.com.ph/feed/
+https://www.eaglenews.ph/feed/
+https://tonite.abante.com.ph/feed/
+https://philnews.ph/feed/
+https://businessmirror.com.ph/feed/
+# https://www.pna.gov.ph/latest/rss
+https://dailyinfonews.data.blog/feed
+https://www.thesummitexpress.com/feeds/posts/default
+https://interaksyon.philstar.com/feed/
+https://www.philnews.xyz/feeds/posts/default?alt=rss
+https://currentph.com/feed/
+# https://www.sunstar.com.ph/rss/local-news
+# https://pia.gov.ph/news/feeds
+
+#regional
+# https://www.wowcordillera.com/feeds/posts/default?alt=rss
+
+#local tech news
+https://unbox.ph/feed/
+http://feeds.feedburner.com/Techpinas
+# https://www.topgear.com.ph/feed/rss
+
+#local socmed
+https://www.metropoler.net/feed/
+
+#socmed
+https://www.reddit.com/r/TikTokCringe/.rss
+https://www.reddit.com/r/tiktokthots/.rss
+
+#torrent
+# https://thepiratebay.org/rss/ /top100/0 "BTRSS"
